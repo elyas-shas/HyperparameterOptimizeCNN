@@ -14,3 +14,4 @@ The following hyperparameters were optimized:
   <li>Learning rate</li>
 </ul>
 
+<a href="https://github.com/elyas-shas/HyperparameterOptimizeCNN/blob/main/Hyperparameter_optimization_CNN.ipynb/">Click here to see the notebook</a>
