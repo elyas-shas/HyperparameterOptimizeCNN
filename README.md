@@ -1,5 +1,5 @@
 # Hyperparameter Optimization of CNN Using Optuna
-Hyperparameters of a CNN was optimized using Optuna package [<a href="https://optuna.org//">details</a>]. MNIST dataset of handwritten digits was used. 
+Hyperparameters of a CNN were optimized using Optuna package [<a href="https://optuna.org//">details</a>]. MNIST dataset of handwritten digits was used. 
 The following hyperparameters were optimized:
 <ul>
   <li>Number of convolution layers</li>
